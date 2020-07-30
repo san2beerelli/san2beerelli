@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Social banner for San2beerelli](https://github.com/san2beerelli/san2beerelli/raw/master/assets/wave.svg)](https://san2beerelli.com)
+<h1>Santhosh Beerelli</h1>
 
 <!--
 **san2beerelli/san2beerelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
