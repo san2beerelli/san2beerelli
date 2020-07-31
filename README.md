@@ -1,4 +1,4 @@
-[![Social banner for San2beerelli](https://github.com/san2beerelli/san2beerelli/raw/master/assets/wave.svg)](https://san2beerelli.com)
+![Alt Social banner for San2beerelli](https://github.com/san2beerelli/san2beerelli/raw/master/assets/wave.svg)
 <h1>Santhosh Beerelli</h1>
 
 <!--
